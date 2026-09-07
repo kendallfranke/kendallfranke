@@ -1,4 +1,4 @@
-![jmuscomimage](jmuscomimage.webp)
+![jmuscomimage](images.png "Screenshot of the app")
 
 
 ## Overview 
