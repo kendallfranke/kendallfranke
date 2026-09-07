@@ -10,3 +10,5 @@
 LinkedIn:https://www.linkedin.com/feed/
 
 
+## Contact 📫
+frankekl@dukes.jmu.edu
