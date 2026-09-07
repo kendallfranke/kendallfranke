@@ -1,4 +1,4 @@
-<img src="image/jmuscomimage.webp" height="150px"/>
+<img src="image.png" height="150px"/>
 
 
 ## Overview 
