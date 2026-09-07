@@ -1,3 +1,5 @@
+https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fevent.fourwaves.com%2Fcoce2023&ved=0CBYQjRxqFwoTCKDZs5bO3JYDFQAAAAAdAAAAABA4&opi=89978449
+
 ## Hello! 
 My name is Kendall Franke, I am a student at James Madison University studying communication studies, concentrating in public relations and minor in digital studies. I hope to pursue a career in the public relations field after graduating. 
  
