@@ -1,13 +1,10 @@
 <img src="image.png" height="150px"/>
 
-## Hello everyone, my name is Kendall Franke
-
-
-## Overview 
+## Hello everyone, my name is Kendall Franke 👋
 I am a student at James Madison University studying communication studies with a concentration in public relations and minor in digital studies. I hope to pursue a career in the public relations field in the future. 
  
 
- ## About Me 👋
+ ## About Me 
 - Student at James Madison University 🎓
 - Communications studies major
 - Minor in digital studies 💻
