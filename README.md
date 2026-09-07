@@ -1,4 +1,4 @@
-![jmuscomimage](images.png "Screenshot of the app")
+<img src="image/image.png" height="150px"/>
 
 
 ## Overview 
