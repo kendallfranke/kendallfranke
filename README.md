@@ -9,11 +9,23 @@ My name is Kendall Franke, I am a student at James Madison University studying c
  
 
  ## About Me 👋
-- Student at James Madison University 
+- Student at James Madison University 🎓
 - Communications studies major
 - Minor in digital studies 💻
 - Involved in: Greek life & OneLove club
 - Go Dukes 💜🐶
+
+
+## Technical Skills
+- Public Relations
+- Strategic Communication
+- Professional Writing
+- Social Media Communication
+- Content Creation
+- Research & Communication Strategy
+
+
+What sets me apart is my ability to combine creativity with intentional communication. I see every message as an opportunity to tell a story, build trust, and leave a lasting impression.
 
 
 ## Links 🔗
