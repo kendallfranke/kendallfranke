@@ -1,7 +1,8 @@
 ## ABOUT ME 👋
-- student at James Madison University 
-- Communications studies major 
-- involved in: Greek life & OneLove club
+- Student at James Madison University 
+- Communications studies major
+- Minor in digital studies 
+- Involved in: Greek life & OneLove club
 - Go Dukes 💜🐶
 
 
